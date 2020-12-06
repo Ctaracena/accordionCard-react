@@ -1,0 +1,29 @@
+.container {
+    width: 50%;
+}
+.woman {
+    width: 100%;
+    position: relative;
+    top: 10vh;
+    left: -50px;
+}
+
+/* .box {
+    width: 180px;
+    position: absolute;
+    top: 40vh;
+    left: 140px;
+} */
+
+@media screen and (max-width: 800px) {
+    .container {
+        width: 100%;
+    }
+    .woman {
+        width: 90%;
+        position: relative;
+        top: -20vh;
+        left: 20px;
+    }
+    
+}

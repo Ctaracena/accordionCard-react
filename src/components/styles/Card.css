@@ -1,0 +1,25 @@
+.card-styles {
+    width: 850px;
+    min-height: 400px;
+    height: auto;
+    background: #FFF;
+    border-radius: 20px;
+    display: flex;
+    background-image: url('../../images/bg-pattern-desktop.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: -60px;
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
+
+@media screen and (max-width: 800px) {
+    .card-styles {
+        flex-direction: column;
+        width: 330px;
+        background-image: url('../../images/bg-pattern-mobile.svg');
+        background-position-x: 0px;
+        margin-top: 150px;
+        margin-bottom: 50px;
+    }
+}
