@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ctaracena.github.io/accordionCard-react/static/css/main.68e7d5ec.chunk.css",
+    "main.js": "/Ctaracena.github.io/accordionCard-react/static/js/main.8c5f3e41.chunk.js",
+    "main.js.map": "/Ctaracena.github.io/accordionCard-react/static/js/main.8c5f3e41.chunk.js.map",
+    "runtime-main.js": "/Ctaracena.github.io/accordionCard-react/static/js/runtime-main.d8912573.js",
+    "runtime-main.js.map": "/Ctaracena.github.io/accordionCard-react/static/js/runtime-main.d8912573.js.map",
+    "static/js/2.5fb9e857.chunk.js": "/Ctaracena.github.io/accordionCard-react/static/js/2.5fb9e857.chunk.js",
+    "static/js/2.5fb9e857.chunk.js.map": "/Ctaracena.github.io/accordionCard-react/static/js/2.5fb9e857.chunk.js.map",
+    "static/js/3.cd494eb8.chunk.js": "/Ctaracena.github.io/accordionCard-react/static/js/3.cd494eb8.chunk.js",
+    "static/js/3.cd494eb8.chunk.js.map": "/Ctaracena.github.io/accordionCard-react/static/js/3.cd494eb8.chunk.js.map",
+    "index.html": "/Ctaracena.github.io/accordionCard-react/index.html",
+    "static/css/main.68e7d5ec.chunk.css.map": "/Ctaracena.github.io/accordionCard-react/static/css/main.68e7d5ec.chunk.css.map",
+    "static/js/2.5fb9e857.chunk.js.LICENSE.txt": "/Ctaracena.github.io/accordionCard-react/static/js/2.5fb9e857.chunk.js.LICENSE.txt",
+    "static/media/Card.css": "/Ctaracena.github.io/accordionCard-react/static/media/bg-pattern-mobile.55aee912.svg",
+    "static/media/icon-arrow-down.852fa301.svg": "/Ctaracena.github.io/accordionCard-react/static/media/icon-arrow-down.852fa301.svg",
+    "static/media/illustration-woman-online-desktop.843eb114.svg": "/Ctaracena.github.io/accordionCard-react/static/media/illustration-woman-online-desktop.843eb114.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8912573.js",
+    "static/js/2.5fb9e857.chunk.js",
+    "static/css/main.68e7d5ec.chunk.css",
+    "static/js/main.8c5f3e41.chunk.js"
+  ]
+}
