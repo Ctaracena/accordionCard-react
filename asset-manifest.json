@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/accordionCard-react/static/css/main.48e8e5a8.chunk.css",
-    "main.js": "/accordionCard-react/static/js/main.8c5f3e41.chunk.js",
-    "main.js.map": "/accordionCard-react/static/js/main.8c5f3e41.chunk.js.map",
+    "main.css": "/accordionCard-react/static/css/main.e2d7c3d2.chunk.css",
+    "main.js": "/accordionCard-react/static/js/main.5f701642.chunk.js",
+    "main.js.map": "/accordionCard-react/static/js/main.5f701642.chunk.js.map",
     "runtime-main.js": "/accordionCard-react/static/js/runtime-main.afc0e67f.js",
     "runtime-main.js.map": "/accordionCard-react/static/js/runtime-main.afc0e67f.js.map",
     "static/js/2.5fb9e857.chunk.js": "/accordionCard-react/static/js/2.5fb9e857.chunk.js",
@@ -10,16 +10,17 @@
     "static/js/3.cd494eb8.chunk.js": "/accordionCard-react/static/js/3.cd494eb8.chunk.js",
     "static/js/3.cd494eb8.chunk.js.map": "/accordionCard-react/static/js/3.cd494eb8.chunk.js.map",
     "index.html": "/accordionCard-react/index.html",
-    "static/css/main.48e8e5a8.chunk.css.map": "/accordionCard-react/static/css/main.48e8e5a8.chunk.css.map",
+    "static/css/main.e2d7c3d2.chunk.css.map": "/accordionCard-react/static/css/main.e2d7c3d2.chunk.css.map",
     "static/js/2.5fb9e857.chunk.js.LICENSE.txt": "/accordionCard-react/static/js/2.5fb9e857.chunk.js.LICENSE.txt",
     "static/media/Card.css": "/accordionCard-react/static/media/bg-pattern-mobile.55aee912.svg",
     "static/media/icon-arrow-down.852fa301.svg": "/accordionCard-react/static/media/icon-arrow-down.852fa301.svg",
+    "static/media/illustration-box-desktop.ec1ba14b.svg": "/accordionCard-react/static/media/illustration-box-desktop.ec1ba14b.svg",
     "static/media/illustration-woman-online-desktop.843eb114.svg": "/accordionCard-react/static/media/illustration-woman-online-desktop.843eb114.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.afc0e67f.js",
     "static/js/2.5fb9e857.chunk.js",
-    "static/css/main.48e8e5a8.chunk.css",
-    "static/js/main.8c5f3e41.chunk.js"
+    "static/css/main.e2d7c3d2.chunk.css",
+    "static/js/main.5f701642.chunk.js"
   ]
 }
