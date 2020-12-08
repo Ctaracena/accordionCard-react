@@ -1,7 +1,7 @@
 .card-styles {
     width: 850px;
-    min-height: 400px;
     height: auto;
+    margin: 10% 0;
     background: #FFF;
     border-radius: 20px;
     display: flex;
@@ -9,17 +9,24 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: -60px;
-    margin-top: 10%;
-    margin-bottom: 20%;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
     .card-styles {
         flex-direction: column;
-        width: 330px;
+        width: 500px;
         background-image: url('../../images/bg-pattern-mobile.svg');
         background-position-x: 0px;
-        margin-top: 150px;
+        background-position-y: 50px;
+        margin-top: 180px;
         margin-bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .card-styles {
+        width: 300px;
+        background-position-y: -20px;
+        margin-top: 150px;
     }
 }

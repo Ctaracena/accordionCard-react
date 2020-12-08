@@ -8,22 +8,39 @@
     left: -50px;
 }
 
-/* .box {
+.box {
     width: 180px;
-    position: absolute;
-    top: 40vh;
-    left: 140px;
-} */
+    position: relative;
+    left: -110px;
+    bottom: 130px;
+}
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
     .container {
         width: 100%;
     }
     .woman {
         width: 90%;
-        position: relative;
-        top: -20vh;
+        top: -140px;
         left: 20px;
+    }
+    .box {
+        width: 180px;
+        left: 10px;
+        bottom: 360px;
+    }
+    
+}
+
+@media screen and (max-width: 550px) {
+    .woman {
+        top: -125px;
+        left: 18px;
+    }
+    .box {
+        width: 100px;
+        left: 14px;
+        bottom: 255px;
     }
     
 }
